@@ -2,7 +2,7 @@
 
 The point of this project is to reverse engineer the
 codezinger API and then write a wrapper with which I
-can get codezinger updates and/or do some-to-None codezinger automation.
+can get codezinger updates and/or do some quick codezinger automation.
 
 # Explaination
 - It's more or less an SDK
